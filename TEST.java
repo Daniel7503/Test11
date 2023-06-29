@@ -1,3 +1,3 @@
 public class TEST {
-    int x=3;
+    int x=6;
 }
